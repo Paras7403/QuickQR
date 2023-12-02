@@ -24,3 +24,4 @@ This project is built with the following technologies:
 - qrcode.react: A library for generating QR codes in React
 
 # Live Demo:- 
+https://genquickqr.netlify.app/
