@@ -1,6 +1,6 @@
-# React QR Code Generator
+# QuickQR
 
-This is a React.js application that generates QR codes. It allows users to enter text or a URL and generates a QR code image based on the input.
+QuickQR is a React.js application that generates QR codes. It allows users to enter text or a URL and generates a QR code image based on the input.
 
 ## Features
 
